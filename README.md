@@ -37,7 +37,7 @@
 
 ```
 
-![Скриншот1 1]("https://github.com/nakuzovkova/zabbix_hw/blob/master/img/1.png")
+![Скриншот1 1](https://github.com/nakuzovkova/zabbix_hw/blob/master/img/1.png)
 
 
 ---
@@ -61,9 +61,9 @@
 ....
 ```
 
-![Скриншот1 2-1]("https://github.com/nakuzovkova/zabbix_hw/blob/master/img/2-1.png")
-![Скриншот1 2-2]("https://github.com/nakuzovkova/zabbix_hw/blob/master/img/2-2.png")
-![Скриншот1 2-3-1]("https://github.com/nakuzovkova/zabbix_hw/blob/master/img/2-3-1.png")
-![Скриншот1 2-3-2]("https://github.com/nakuzovkova/zabbix_hw/blob/master/img/2-3-2.png")
+![Скриншот1 2-1](https://github.com/nakuzovkova/zabbix_hw/blob/master/img/2-1.png)
+![Скриншот1 2-2](https://github.com/nakuzovkova/zabbix_hw/blob/master/img/2-2.png)
+![Скриншот1 2-3-1](https://github.com/nakuzovkova/zabbix_hw/blob/master/img/2-3-1.png)
+![Скриншот1 2-3-2](https://github.com/nakuzovkova/zabbix_hw/blob/master/img/2-3-2.png)
 ---
 
